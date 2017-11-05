@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cryptocurrency App</string>
+    <string name="app_full_name">Cryptocurrency App</string>
+    <string name="action_order">Order by rates</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="dummy">Begin</string>
+
+
+    <string name="content_desc">Bitcoin Icon</string>
+    <string name="currency">Currency</string>
+    <string name="btc">BTC</string>
+    <string name="eth">ETH</string>
+
+    <string name="btc_sign">BTC:</string>
+    <string name="eth_sign">ETH:</string>
+
+    <string name="amount_hint">0.00</string>
+
+    <string name="convert">Convert </string>
+    <string name="finish">Finish</string>
+</resources>
